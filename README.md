@@ -10,7 +10,7 @@
 - interested in android internals and custom roms
 - learning by experimenting and building
 
-### android setup
+### setup
 
 - **device:** samsung galaxy a15 4g
 - **rom:** lemonui
@@ -39,8 +39,6 @@
 </table>
 
 ---
-
-### github stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Maxwell523452&show_icons=true&hide_border=true&theme=github_dark" alt="github stats">
