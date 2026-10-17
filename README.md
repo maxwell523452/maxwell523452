@@ -33,3 +33,13 @@ i enjoy exploring linux, experimenting with android, and learning how technology
 <p align="center">
   <i>learning and building, one commit at a time.</i>
 </p>
+
+### android setup
+
+- 📱 **device:** samsung galaxy a15 4g
+- 🎨 **rom:** lemonui
+- ⚙️ **root:** kernelsu next (lkm)
+- 🛡️ **kernel:** susfs
+- 🔧 **bootloader:** unlocked
+- 🧪 **interests:** custom roms, kernel modding, android internals
+
