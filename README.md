@@ -39,12 +39,6 @@
   <img src="https://img.shields.io/badge/python-3776ab?style=flat-square&logo=python&logoColor=white" alt="python">
 </p>
 
-### projects
-
-**[vr cyberdeck](https://github.com/Maxwell523452/vr-cyberdeck-bin)**
-
-arch linux packaging for vr cyberdeck.
-
 </td>
 <td valign="middle" align="center" width="35%">
 
