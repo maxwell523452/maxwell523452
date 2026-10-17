@@ -1,14 +1,5 @@
 <h1 align="left">hey, i'm maxwell</h1>
 
-<p align="left">
-  linux enthusiast · android modding
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/cachyos-1793d1?style=flat-square&logo=linux&logoColor=white" alt="cachyos">
-  <img src="https://img.shields.io/badge/android-3ddc84?style=flat-square&logo=android&logoColor=white" alt="android">
-</p>
-
 <table>
 <tr>
 <td valign="top" width="65%">
