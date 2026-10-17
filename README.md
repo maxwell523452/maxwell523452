@@ -25,6 +25,7 @@
 - **rom:** lemonui
 - **root:** kernelsu next · lkm
 - **kernel modules:** susfs
+- **browser:** waterfox
 
 ### tech stack
 
