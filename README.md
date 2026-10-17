@@ -6,7 +6,6 @@ i enjoy exploring linux, experimenting with android, and learning how technology
 
 - 🐧 daily driving cachyos
 - 📱 interested in custom roms and kernel modding
-- 🥽 exploring vr and pcvr
 
 ---
 
