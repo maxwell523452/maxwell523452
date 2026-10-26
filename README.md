@@ -16,7 +16,7 @@
 - **rom:** lemonui
 - **root:** kernelsu next · lkm
 - **kernel modules:** susfs
-- **browser:** waterfox
+- **browser:** thorium
 
 ### tech stack
 
